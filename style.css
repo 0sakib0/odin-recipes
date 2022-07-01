@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    color: black;
+}
+img {
+    height:500px;
+    width:auto;
+    margin: auto;
+    display: block;
+    border: 15px solid teal
+}
+body {
+    background-color: darkseagreen;
+}
+#main {
+    color: rgb(26, 141, 194);
+    text-align:center;
+    border: auto;
+    padding-left: 55px;
+}
+.title2 {
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   text-align: center;
+   list-style: inside;
+}
+.maint {
+    text-align: center;
+}
